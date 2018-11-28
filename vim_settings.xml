@@ -1,0 +1,45 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Veolia/veolia-anonymisation-dev/app/default/handlers/main.py" timestamp="1530028343883">
+        <mark key="[" line="15" column="62" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/Veolia/veolia-anonymisation-dev/app/default/statics/elements/admin-kms/admin-kms.html" timestamp="1530026815461" />
+      <file name="$USER_HOME$/Documents/Veolia/veolia-anonymisation-dev/app/apis/handlers/anonymize.py" timestamp="1530028032340">
+        <mark key="[" line="26" column="106" />
+        <mark key="]" line="26" column="107" />
+        <mark key="." line="26" column="106" />
+      </file>
+      <file name="$USER_HOME$/Documents/Veolia/veolia-anonymisation-dev/app/default/statics/elements/csv-upload/csv-upload.html" timestamp="1530026600884" />
+      <file name="$USER_HOME$/Documents/Veolia/veolia-anonymisation-dev/app/default/templates/index.html" timestamp="1530026850988" />
+      <file name="$USER_HOME$/Documents/Veolia/veolia-anonymisation-dev/app/default/statics/elements/my-app/my-app.html" timestamp="1530026697146" />
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
